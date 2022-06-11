@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rogerio.matos1975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-  <a href="https://www.linkedin.com/in/rogerio-matos-39045596" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:rogerio.matos1975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a> 
 </div>
 
-![ PacMan ](https://github.com/RogerioMatos75/RogerioMatos75/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)

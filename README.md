@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:rogerio.matos1975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a> 
 </div>
-
-![ PacMan ](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)

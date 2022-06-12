@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioMatos75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  
+  ##
+  
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioMatos75&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
@@ -31,3 +36,4 @@ Here are some ideas to get you started:
 </div>
 
 
+[Snake animation](https://github.com/RogerioMatos75/RogerioMatos75/blob/output/github-contribution-grid-snake.svg)

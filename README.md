@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 ##
 
-![ PacMan ](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![ PacMan ](https://raw.githubusercontent.com/rogeriomatos75/rogeriomatos75/snk/output/github-contribution-grid-snake.svg)

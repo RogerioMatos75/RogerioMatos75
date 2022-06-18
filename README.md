@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ##
 
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioMatos75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
@@ -34,9 +35,3 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-##
-  
-  < div >
-    
-![ PacMan ](https:///D:/2%20-%20DIO%20-%20BoostCamp/DIO%20-%20Certificados/Git%20e%20GitLab/github-user-contribution.svg)
-    

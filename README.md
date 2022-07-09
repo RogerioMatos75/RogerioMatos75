@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning .NET C#
 
-- 👯 I’m looking to collaborate on divulgação de cursos gratuitos e estágios.
+- 👯 I’m looking to collaborate on divulgação de cursos gratuitos.
 
 - 🤔 I’m looking for help with no que posso.
 

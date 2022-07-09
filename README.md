@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 -->
 <div>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on meu hard skil
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning .NET C#
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on divulgação de cursos gratuitos e estágios.
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with no que posso.
 
 
 ##

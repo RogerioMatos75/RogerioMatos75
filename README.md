@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with no que posso.
 
+Criando Repositorios: ssh-keygen -t ed25519 -C rogerio.matos75@hotmail.com
 
 ##
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💼 I’m available for freelance or contract work (PJ)
 
-- 📫 How to reach me: [rogerio.matos75@hotmail.com]
+- 📫 How to reach me: [ https://wa.me/+5511968160730]
 
 ##
 

@@ -1,4 +1,4 @@
-### Hi there 👋 Dev Seja Bem Vindo!  
+### Hi there 👋 Cyber Seja Bem Vindo!  
 
 <!--
 **RogerioMatos75/RogerioMatos75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,27 +7,45 @@ Here are some ideas to get you started:
 -->
 <div>
 
-- 🔭 I’m currently working on meu hard skil
+- 🔭 I’m currently working on improving my hard skills in Information Security
 
-- 🌱 I’m currently learning .NET C#
+- 🌱 I’m currently specializing in SOC Analysis, Penetration Testing, and Computer Forensics
 
-- 👯 I’m looking to collaborate on divulgação de cursos gratuitos.
+- 👯 I’m looking to collaborate on security-related projects and initiatives
 
-- 🤔 I’m looking for help with no que posso.
+- 🤔 I’m looking for help with enhancing my knowledge and skills in advanced security topics
 
-Criando Repositorios: ssh-keygen -t ed25519 -C rogerio.matos75@hotmail.com
+- 💼 I’m available for freelance or contract work (PJ)
+
+- 📫 How to reach me: [rogerio.matos75@hotmail.com]
 
 ##
 
+### Projects and Contributions
 
-<div>
+Here are some projects I've been working on recently:
+
+- [Project 1](link to project): Description of project 1.
+- [Project 2](link to project): Description of project 2.
+- [Project 3](link to project): Description of project 3.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+##
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioMatos75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-
 ##
 
 <div>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+##

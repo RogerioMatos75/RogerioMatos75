@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 Here are some projects I've been working on recently:
 
-- [Project 1](link to project): Description of project 1.
-- [Project 2](link to project): Description of project 2.
-- [Project 3](link to project): Description of project 3.
+- [Curso em Andamento 1](link to project): Description of project 1.
+- [Curso em Andamento 2](link to project): Description of project 2.
+- [Curso em Andamento 3](link to project): Description of project 3.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 

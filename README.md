@@ -62,9 +62,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ### Cursos e Conhecimento 
 
-<a href="https://www.abuseipdb.com/user/150591" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/150591.svg" alt="AbuseIPDB Contributor Badge" style="width: 149px;">
-</a>
 
 ##
 
@@ -72,6 +69,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ##
 
-<a href="https://im.ge/i/python-768x768.KheNYL"><img src="https://i.im.ge/2024/06/01/KheNYL.python-768x768.md.jpeg" alt="python 768x768" border="0"></a>
+
 
 

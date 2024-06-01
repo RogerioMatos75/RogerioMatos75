@@ -79,6 +79,6 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ##
 
-
+<imagem fonte="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=100%&seitaíon = rodapé"/>
 
 

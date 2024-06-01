@@ -33,10 +33,13 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ##
 
+### Habilidades 
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioMatos75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ##
 
+### Contatos 
 <div>
   <a href="https://www.youtube.com/channel/UCZ3BtkOjEKKEGez_xGpxk_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/nocontrole75" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -55,6 +58,8 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ##
 
 ### Certificados 
+
+##
 
 
 

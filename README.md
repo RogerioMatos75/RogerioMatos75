@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 <div>
 
-- 🔭 I’m currently working on improving my hard skills in Information Security
+- 🔭 I’m currently working on improving my hard skills in Desenvolvimentos de Projetos
 
-- 🌱 I’m currently specializing in SOC Analysis, Penetration Testing, and Computer Forensics
+- 🌱 I’m currently specializing in Saas, MicroSaaS, MCP, Android
 
 - 👯 I’m looking to collaborate on security-related projects and initiatives
 

@@ -19,7 +19,7 @@
 - 🤝 Estou aberto a colaborações em projetos e iniciativas relacionadas à **segurança**.
 - 🤔 Busco constantemente aprimorar meus conhecimentos em **tópicos avançados de segurança**.
 - 💼 Estou disponível para trabalhos **freelance ou contratos (PJ)**.
-- 📫 Você pode me contatar pelo WhatsApp: https://wa.me/+5511968160730
+
 </div>
 
 <br>

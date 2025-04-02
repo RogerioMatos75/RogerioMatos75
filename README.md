@@ -27,39 +27,38 @@
 ## Projetos em Destaque
 
 <p align="center">
-  Confira alguns dos meus projetos mais recentes. Clique nos botões para explorar!
+  Confira alguns dos meus projetos mais recentes. Clique para explorar!
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/dino/dino.html">
+        <img src="assets/jogo do Dino.png" alt="Dino Game" width="300" />
+      </a>
+      <br />
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/dino/dino.html">🎮 Dino Game</a><br>
+      Uma recriação do famoso jogo do dinossauro do Chrome, com mecânicas divertidas e design moderno.
+    </td>
+    <td align="center">
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/calculadora">
+        <img src="assets/Calculadora.png" alt="Calculadora" width="300" />
+      </a>
+      <br />
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/calculadora">🔢 Calculadora</a><br>
+      Uma calculadora moderna com interface intuitiva e funcionalidades essenciais para cálculos do dia a dia.
+    </td>
+    <td align="center">
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/lista-de-tarefas">
+        <img src="assets/Lista de Tardefas.png" alt="Lista de Tarefas" width="300" />
+      </a>
+      <br />
+      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/lista-de-tarefas">📝 Lista de Tarefas</a><br>
+      Um organizador de tarefas eficiente para ajudar você a manter suas atividades em ordem.
+    </td>
+  </tr>
+</table>
 
-  <div style="width: 300px; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background: #0d1117;">
-    <img src="banner-dino.svg" alt="Dino Game" style="width: 100%; height: 150px; object-fit: cover;">
-    <div style="padding: 15px;">
-      <h3 style="color: #58a6ff; margin: 0 0 10px 0;">🎮 Dino Game</h3>
-      <p style="color: #8b949e; margin: 0 0 15px 0;">Uma recriação do famoso jogo do dinossauro do Chrome, com mecânicas divertidas e design moderno.</p>
-      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/dino/dino.html" style="display: inline-block; padding: 8px 16px; background: #238636; color: white; text-decoration: none; border-radius: 6px;">Jogar Agora</a>
-    </div>
-  </div>
-
-  <div style="width: 300px; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background: #0d1117;">
-    <img src="banner-calculadora.svg" alt="Calculadora" style="width: 100%; height: 150px; object-fit: cover;">
-    <div style="padding: 15px;">
-      <h3 style="color: #58a6ff; margin: 0 0 10px 0;">🔢 Calculadora</h3>
-      <p style="color: #8b949e; margin: 0 0 15px 0;">Uma calculadora moderna com interface intuitiva e funcionalidades essenciais para cálculos do dia a dia.</p>
-      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/calculadora" style="display: inline-block; padding: 8px 16px; background: #238636; color: white; text-decoration: none; border-radius: 6px;">Usar Calculadora</a>
-    </div>
-  </div>
-
-  <div style="width: 300px; border: 1px solid #30363d; border-radius: 10px; overflow: hidden; background: #0d1117;">
-    <img src="banner-lista-de-tarefas.svg" alt="Lista de Tarefas" style="width: 100%; height: 150px; object-fit: cover;">
-    <div style="padding: 15px;">
-      <h3 style="color: #58a6ff; margin: 0 0 10px 0;">📝 Lista de Tarefas</h3>
-      <p style="color: #8b949e; margin: 0 0 15px 0;">Um organizador de tarefas eficiente para ajudar você a manter suas atividades em ordem.</p>
-      <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/lista-de-tarefas" style="display: inline-block; padding: 8px 16px; background: #238636; color: white; text-decoration: none; border-radius: 6px;">Organizar Tarefas</a>
-    </div>
-  </div>
-
-</div>
 
 <br>
 

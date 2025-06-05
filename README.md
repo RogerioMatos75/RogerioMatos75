@@ -56,6 +56,14 @@
       <a href="https://rogeriomatos75.github.io/Portfolio-Interativo/lista-de-tarefas">📝 Lista de Tarefas</a><br>
       Um organizador de tarefas eficiente para ajudar você a manter suas atividades em ordem.
     </td>
+    <td align="center">
+      <a href="https://github.com/RogerioMatos75/pandora.git">
+        {/* Imagem omitida por enquanto */}
+      </a>
+      <br />
+      <a href="https://github.com/RogerioMatos75/pandora.git">🤖 Pandora API</a><br>
+      Projeto Pandora - API de IA com Google ADK. API inteligente baseada no Google Agent Development Kit (ADK) que oferece uma interface para interação com um agente de IA personalizado.
+    </td>
   </tr>
 </table>
 
